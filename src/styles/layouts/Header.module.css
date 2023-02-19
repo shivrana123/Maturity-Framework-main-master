@@ -1,0 +1,25 @@
+
+
+.headerWrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  background-color:  #06041F;
+  border: 1px solid #000000;
+}
+
+.headerLogo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 274px;
+  height: 86px;  
+}
+
+.headerText {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color:white;
+}

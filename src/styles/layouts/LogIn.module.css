@@ -1,0 +1,25 @@
+.logInLogo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 100px;
+
+}
+.logInInputField {
+    border-style: ridge;
+    display: flex;
+    flex-direction: column;
+    border-radius: 8px;
+    padding: 40px;
+    margin: 30px;
+    width: 50%;
+}
+
+.logInInputFieldLabel{
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    justify-content: center;
+
+}
