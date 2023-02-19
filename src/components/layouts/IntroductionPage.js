@@ -1,5 +1,5 @@
 import React from 'react';
-import Header from './Header';
+import Header from './Header'; 
 import styles from '../../styles/layouts/IntroductionPage.module.css';
 import NavigationButton from '../common/NavigationButton';
 import ContentInputBox from '../common/ContentInputBox';
